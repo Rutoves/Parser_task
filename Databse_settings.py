@@ -1,0 +1,5 @@
+USER = 'parser_admin'
+PASSWORD = '12345'
+IP = 'localhost'
+PORT = '5432'
+DATABASE_NAME = 'parser'
